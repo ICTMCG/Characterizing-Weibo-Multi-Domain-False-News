@@ -1,5 +1,5 @@
 # Characterizing-Weibo-Multi-Domain-False-News
-Code and Data for "Characterizing Multi-Domain False News on Weibo and the Underlying User Effects"
+Code and Data for "Characterizing Multi-Domain False News and Underlying User Effects on Chinese Weibo"
 
 # Contents
 - Code: Code for Analysis of False News on Weibo Data Set.ipynb in this repo.
