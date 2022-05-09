@@ -24,9 +24,14 @@ Code and Data for "Characterizing Multi-Domain False News and Underlying User Ef
 If you feel this GitHub repo is useful, please cite the following article:
 ```
 @article{Multi-domain-false-news,
-    title = "Characterizing Multi-Domain False News and Underlying User Effects on Chinese Weibo",
-    author = "Sheng, Qiang  and Cao, Juan and Bernard, H. Russell and Shu, Kai and Li, Jintao, and Liu, Huan",
-    journal = "Information Processing & Management",
-    year = "2022"
+    title = {Characterizing Multi-Domain False News and Underlying User Effects on Chinese Weibo},
+    author = {Sheng, Qiang  and Cao, Juan and Bernard, H. Russell and Shu, Kai and Li, Jintao, and Liu, Huan},
+    journal = {Information Processing \& Management},
+    doi = {10.1016/j.ipm.2022.102959},
+    volume = {59},
+    number = {4},
+    pages = {102959},
+    year = {2022},
+    issn = {0306-4573}
 }
 ```
